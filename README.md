@@ -3,12 +3,18 @@
 This project is a simple **Admin Dashboard** for managing an **Online Grocery Store** built using **PHP & MySQL**. It supports managing customers, products, orders, and order items .
 
 ✨ Features
+
 🔐 CRUD for Customers, Products, and Orders
+
 <img width="42" height="41" alt="image" src="https://github.com/user-attachments/assets/bb14f270-7cd7-46b6-8b37-9cec660a12b7" />
 Invoice Download
+
 🧾 Add/Delete Items from Orders
+
 📦 MySQL-based data storage
+
 🌐 Login and regsiter functionality for users
+
 ♻️ Modular code using include files (header/footer/connection)
 
 ## 📁 Folder Structure
