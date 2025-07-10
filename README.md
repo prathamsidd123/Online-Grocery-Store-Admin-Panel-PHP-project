@@ -9,7 +9,7 @@ This project is a simple **Admin Dashboard** for managing an **Online Grocery St
 
 📦 MySQL-based data storage
 
-🌐 Simple and responsive admin UI
+🌐 Login and regsiter functionality for users
 
 ♻️ Modular code using include files (header/footer/connection)
 
